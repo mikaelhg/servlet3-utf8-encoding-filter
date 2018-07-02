@@ -8,15 +8,15 @@ Use with Maven/Gradle/Leiningen:
 
 https://jitpack.io/#mikaelhg/servlet3-utf8-encoding-filter/-SNAPSHOT
 
-	<repositories>
-		<repository>
-		    <id>jitpack.io</id>
-		    <url>https://jitpack.io</url>
-		</repository>
-	</repositories>
-    
-	<dependency>
-	    <groupId>com.github.mikaelhg</groupId>
-	    <artifactId>servlet3-utf8-encoding-filter</artifactId>
-	    <version>-SNAPSHOT</version>
-	</dependency>
+    <repositories>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
+    </repositories>
+
+    <dependency>
+        <groupId>com.github.mikaelhg</groupId>
+        <artifactId>servlet3-utf8-encoding-filter</artifactId>
+        <version>-SNAPSHOT</version>
+    </dependency>
